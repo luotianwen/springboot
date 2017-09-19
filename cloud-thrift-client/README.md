@@ -9,9 +9,9 @@
 
 -------------------
 ### 开发环境
-* IDE：myeclipse 10
-* JDK：jdk1.7
-* WINDOWS：mvn 3
+* IDE：idea2017.2
+* JDK：jdk1.8
+* centos7：git
 
 -------------------
 -------------------
